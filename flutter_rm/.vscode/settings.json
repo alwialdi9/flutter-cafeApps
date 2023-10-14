@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.renderFinalNewline": "on",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrapColumn": 160
+}
